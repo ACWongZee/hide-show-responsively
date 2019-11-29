@@ -20,7 +20,7 @@ html {
 
 img {
   width: 100%;
-  display: block;
+  display: flex;
 }
 
 .dino-wrap {
